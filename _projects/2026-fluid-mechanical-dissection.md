@@ -1,10 +1,11 @@
 ---
-layout: page
-title: "Fluid-Mechanical Dissection"
-description: "MAE 3230 Fluid Mechanics Project"
+layout: project
+title: Fluid Mechanical Dissection 
+description: MAE3230 Discussion
+technologies: n/a
+image: 
 ---
 
-# Fluid-Mechanical Dissection
 
 This section will document my fluid-mechanical dissection project for MAE 3230.
 
