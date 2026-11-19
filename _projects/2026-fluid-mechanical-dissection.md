@@ -6,6 +6,7 @@ technologies: n/a
 image: 
 ---
 
+For our Fluid Mechanical Dissection (FMD) project, my group will disassemble a Dirt Devil handheld vacuum to investigate its internal components and understand the fluid mechanics principles involved in its operation.
 
 This section will document my fluid-mechanical dissection project for MAE 3230.
 
